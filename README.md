@@ -1,6 +1,6 @@
 [![make.fun bounty](https://make.fun/badge/u-shino-make-the-ai-judge-feel-nostalgic-a-childhood-625d3363.svg)](https://make.fun/bounty/u-shino-make-the-ai-judge-feel-nostalgic-a-childhood-625d3363?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-nostalgic-a-childhood-mem)
 [![rank](https://make.fun/badge/u-shino-make-the-ai-judge-feel-nostalgic-a-childhood-625d3363/zp1206849221-sketch/make-the-ai-judge-feel-nostalgic-a-childhood-mem/rank.svg)](https://make.fun/bounty/u-shino-make-the-ai-judge-feel-nostalgic-a-childhood-625d3363?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-nostalgic-a-childhood-mem)
-[![reward](https://make.fun/badge/u-shino-make-the-ai-judge-feel-nostalgic-a-childhood-625d3363.svg)](https://make.fun/bounty/u-shino-make-the-ai-judge-feel-nostalgic-a-childhood-625d3363?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-nostalgic-a-childhood-mem)
+[![reward](https://make.fun/badge/u-shino-make-the-ai-judge-feel-nostalgic-a-childhood-625d3363/zp1206849221-sketch/make-the-ai-judge-feel-nostalgic-a-childhood-mem/reward.svg)](https://make.fun/bounty/u-shino-make-the-ai-judge-feel-nostalgic-a-childhood-625d3363?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-nostalgic-a-childhood-mem)
 
 # Make the AI Judge Feel Nostalgic: A Childhood Memory
 
